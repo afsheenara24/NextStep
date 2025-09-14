@@ -1,13 +1,13 @@
-# SIH NextStep
+# NextStep
 
-A modern career guidance platform built with **Vite + React + TypeScript**, styled with **TailwindCSS** and **shadcn/ui** components.  
+A modern career guidance platform built with **Vite + React + TypeScript**, styled with **TailwindCSS** components.  
 The app integrates AI-driven features, course exploration, and interactive tools to guide students in choosing the right career path.
 
 ---
 
 ## ✨ Features
 - ⚡ Fast development with **Vite + React + TypeScript**  
-- 🎨 UI powered by **TailwindCSS** and **shadcn/ui**  
+- 🎨 UI powered by **TailwindCSS**  
 - 🔍 Career quiz & recommendation system  
 - 📚 Course & institution exploration  
 - 🎤 AI-powered voice assistant (via `@vapi-ai/web`)  
@@ -20,7 +20,7 @@ The app integrates AI-driven features, course exploration, and interactive tools
 
 ## 📦 Tech Stack
 - **Frontend:** React 18, Vite, TypeScript  
-- **UI/Styling:** TailwindCSS, shadcn/ui, Radix UI  
+- **UI/Styling:** TailwindCSS, Radix UI  
 - **Routing:** React Router DOM  
 - **State & Data:** React Query (TanStack), React Hook Form, Zod  
 - **Database/Backend:** Supabase  
@@ -32,8 +32,8 @@ The app integrates AI-driven features, course exploration, and interactive tools
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/SIHNEXTSTEP-main.git
-cd SIHNEXTSTEP-main
+git clone https://github.com/your-username/NextStep-main.git
+cd NextStep-main
 ```
 ### Install Dependencies
 ```bash
@@ -79,4 +79,4 @@ tree -L 2
 ### 📸 Screenshots
 ![Home Page](./assets/Home.png)
 ![Explore Courses](./assets/Courses.png)
-![Voice ASsistant and Chatbot](./assets/Voice.png)
+![Voice Assistant and Chatbot](./assets/Voice_Assistant.png)
