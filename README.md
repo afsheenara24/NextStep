@@ -74,7 +74,18 @@ export default defineConfig({
 ## 📂 Project Structure
 
 ```bash
-tree -L 2
+SIHNEXTSTEP-main/
+├── public/         # Static assets
+├── src/            # Application source code
+│ ├── components/   # Reusable UI components
+│ ├── pages/        # Page-level components
+│ ├── hooks/        # Custom React hooks
+│ ├── lib/          # API clients, utils, helpers
+│ └── main.tsx      # App entry point
+├── package.json    # Project scripts & dependencies
+├── tailwind.config.js  # TailwindCSS configuration
+├── vite.config.ts      # Vite configuration
+└── tsconfig.json       # TypeScript configuration
 ```
 ### 📸 Screenshots
 ![Home Page](./assets/Home.png)
